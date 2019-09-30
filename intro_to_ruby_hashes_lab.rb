@@ -1,6 +1,6 @@
 def base_hash
   emerson_courts =
-	{}
+	{:aptnum => "445"}
 end
 
 def monopoly_with_second_tier
