@@ -1,5 +1,6 @@
 def base_hash
-  emerson_courts => {}
+  emerson_courts =
+	{}
 end
 
 def monopoly_with_second_tier
